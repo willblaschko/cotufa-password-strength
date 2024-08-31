@@ -19,7 +19,7 @@ The Password Strength Calculator is a lightweight, responsive tool built entirel
    ```
 2. Navigate to the project directory:
    ```
-   cd password-strength-calculator
+   cd cotufa-password-strength
    ```
 3. Open `index.html` in your preferred web browser.
 
