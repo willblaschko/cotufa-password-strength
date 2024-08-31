@@ -1,0 +1,20 @@
+{
+  "name": "password-strength-calculator",
+  "version": "1.0.0",
+  "description": "A lightweight, responsive tool built with native HTML and JavaScript to calculate and provide feedback on password strength.",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo \"Open index.html in a web browser to use the Password Strength Calculator\""
+  },
+  "keywords": [
+    "password",
+    "security",
+    "strength",
+    "calculator",
+    "html",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "private": true
+}
